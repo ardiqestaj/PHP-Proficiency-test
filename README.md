@@ -17,9 +17,9 @@
 #### For all employees:
 	 localhost:8080/employees
 
-#### For single employees:
+#### For single employee:
 	 localhost:8080/employees/{id}
 
 
 ### Start unit test by running:
-	 vendo/bin/phpunit
+	 vendor/bin/phpunit
